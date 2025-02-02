@@ -10,7 +10,7 @@ The project includes:
 - Theoretical analysis of their time complexity.
 - Empirical evaluation of Randomized Quicksort vs. Deterministic Quicksort.
 - Benchmarking results and insights into algorithm performance.
-- It will prin out the time that taken by both Deterministic and randomized apporach for already sorted, reversely sorted and random array. 
+- It will print out the time taken by both Deterministic and randomized approaches for already sorted, reversely sorted, and random arrays. 
 
 ---
 
