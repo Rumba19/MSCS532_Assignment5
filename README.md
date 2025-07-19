@@ -1,4 +1,4 @@
-# MSCS532 Assignment 5: Quick sort algorithm: Implementation, analysis and randomization
+#  Quick sort algorithm: Implementation, analysis and randomization
 
 ## **Overview**
  
